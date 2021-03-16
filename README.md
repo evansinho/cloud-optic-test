@@ -1,24 +1,37 @@
-# README
+# CLOUD_OPTIC_TEST
+A simple Api for creating and listing businesses.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## API ENDPOINTS                                
+- POST /businesses/create	                                                                     
+- GET /businesses/index	                              
 
-Things you may want to cover:
+## Technologies Used
+- Ruby- 2.7
+- Ruby on Rails- 6.0.3.5
+- RSpec
 
-* Ruby version
+### Installation
+- Install VSCode or any code editor you like;
+- Install the latest versions of Ruby and Ruby on Rails.
 
-* System dependencies
+### Testing the application
+- clone the repo and cd the app and run ```bundle install`` then run ```rails server```
 
-* Configuration
+Then you can use postman or any tool for testing
 
-* Database creation
+- [Postman](https://www.getpostman.com/) - API development and testing environment.
 
-* Database initialization
+Testing with Postman
 
-* How to run the test suite
+- Install Postman by following the link above.
+- Navigate to `localhost:3000` in Postman to access the application.
+- Use the API Documentation to access the endpoints available.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
 
-* Deployment instructions
+👤 **Evanson Igiri**
 
-* ...
+## 📝 License
+
+This project is [Apache](lic.url) licensed.
+
