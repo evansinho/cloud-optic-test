@@ -15,7 +15,7 @@ A simple Api for creating and listing businesses.
 - Install the latest versions of Ruby and Ruby on Rails.
 
 ### Testing the application
-- clone the repo and cd the app and run ```bundle install`` then run ```rails server```
+- clone the repo and cd the app and run ```bundle install``` then run ```rails server```
 
 Then you can use postman or any tool for testing
 
